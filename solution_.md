@@ -1,5 +1,7 @@
 # Solution
 
+## Titles of papers
+
 <ul>
 <li>
 MCC Van Dyke et al., 2019 could refer to either:
@@ -20,3 +22,11 @@ DW Ziegler et al., 2005:
 
 Ziegler, D. W., Lois, M., Hess, D., Pinilla, J., & Tellez, G. (2005). Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients. Chest, 128(4), 194S.
 </li>
+</ul>
+
+## Data visualization
+<p>
+This image shows the datapoints with the regression line, calculated with ordinary least squares.
+</p>
+
+![Relation between number of students and beer consumption per year](correlation.png)
